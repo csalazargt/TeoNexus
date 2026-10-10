@@ -1,0 +1,8 @@
+{
+  "name": "TeoNexus - Lector de Blog",
+  "description": "Lector moderno y minimalista para el blog TeoNexus de Carlos Salazar (csalazar.org), con sincronización RSS, soporte offline, modo oscuro y notificaciones.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
